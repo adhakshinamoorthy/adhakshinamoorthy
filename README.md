@@ -16,6 +16,7 @@ I enjoy turning business requirements into secure, maintainable systems and buil
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Solution Architecture Portfolio](https://github.com/adhakshinamoorthy/solution-architecture-portfolio) | An implementation-backed Azure and AWS architecture portfolio covering distributed .NET systems, event-driven workflows, transactional outbox, resilience, security, observability, ADRs, and documented trade-offs. |
 | [AI GateKeeper](https://github.com/adhakshinamoorthy/AIGateKeeper) | A production-minded .NET and React AI gateway with streaming, rate limiting, PostgreSQL auditing, Docker, architecture documentation, and explicit scaling boundaries. |
 | [AuthenticationDemo](https://github.com/adhakshinamoorthy/Authn) | JWT access and refresh tokens, token rotation, ASP.NET Core Identity, policy-based security, Blazor, SQL Server, and focused tests. |
 | [Relay AI Orchestrator](https://github.com/adhakshinamoorthy/AiOrchestrator) | A multi-provider AI chat architecture using .NET and Blazor with provider adapters, safe configuration, rate limiting, health checks, and regression coverage. |
@@ -39,4 +40,3 @@ I enjoy turning business requirements into secure, maintainable systems and buil
 
 - [LinkedIn](https://www.linkedin.com/in/adhakshinamoorthy)
 - [GitHub](https://github.com/adhakshinamoorthy)
-
